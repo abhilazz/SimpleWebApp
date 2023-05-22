@@ -96,9 +96,9 @@
       <div class="image-grid">
         <h2 style="color: rgb(83, 4, 4);">IMAGES</h2><br>
         <p class="left-shift" style="color: rgb(83, 4, 4);">Carefully see the face of crimilals</p>
-        <img src="D:\AWS\html\1\image\AYAZ A.jpg" alt="Image 1">
-        <img src="D:\AWS\html\1\image\IMG_20230522_123534.jpg" alt="Image 2">
-        <img src="D:\AWS\html\1\image\4440.jpg" alt="Image 3">
+        <img src="https://github.com/abhilazz/SimpleWebApp/blob/master/webapp/src/main/webapp/images/AYAZ%20A.jpg?raw=true" alt="Image 1">
+        <img src="https://github.com/abhilazz/SimpleWebApp/blob/master/webapp/src/main/webapp/images/IMG_20230522_123534.jpg?raw=true" alt="Image 2">
+        <img src="https://github.com/abhilazz/SimpleWebApp/blob/master/webapp/src/main/webapp/images/4440.jpg?raw=true" alt="Image 3">
       </div>
   
     </div>
