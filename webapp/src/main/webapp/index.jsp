@@ -102,7 +102,7 @@
       <p>Beside More Supermarket</p>
       <p style="color: rgb(83, 4, 4);">Room No 207</p>
       <p>Killled an innocent boy named <span class="blue-text">Sameer</span>,who stays in the same hostel.</p>
-      <p>click to view <a href="D:\AWS\html\1\image\sam.jpg" alt="sameer not found"><span class="sam">sameer</span></a>
+      <p>click to view <a href="https://github.com/abhilazz/SimpleWebApp/blob/master/webapp/src/main/webapp/images/rape.jpg?raw=true" alt="sameer not found"><span class="sam">sameer</span></a>
     
     </div>
     <div class="column">
