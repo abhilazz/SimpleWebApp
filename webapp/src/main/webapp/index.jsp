@@ -82,6 +82,11 @@
       font-weight: bold;
       color: #e0e0e0;
     }
+      .samsize{
+      display: block;
+      width: 30%;
+      height: auto;
+    }
   </style>
 </head>
 <body>
@@ -90,7 +95,7 @@
     <div class="column">
       <h2 style="color: rgb(83, 4, 4);">DATA OF CRIMINALS</h2>
       <p style="color: rgb(83, 4, 4);">DETAILS OF CRIMINALS</p>
-      <p>Type of crime is <span class="highlight">Murder</span> </p>
+      <p>Type of crime is <span class="highlight">RAPE</span> </p>
       <hr>
       <p>Address <span class="highlight">GVK HOSTEL</span></p>
       
@@ -98,7 +103,7 @@
       <p style="color: rgb(83, 4, 4);">Room No 207</p>
       <p>Killled an innocent boy named <span class="blue-text">Sameer</span>,who stays in the same hostel.</p>
       <p>click to view <a href="D:\AWS\html\1\image\sam.jpg" alt="sameer not found"><span class="sam">sameer</span></a>
-      <p>click to view <a href="D:\AWS\html\1\image\IMG_20230522_123534.jpg"><span class="sam">sameer</span></a>
+      <p>click to view <a href="D:\AWS\html\1\image\rape.jpg"><span class="sam">sameer</span></a>
     
     </div>
     <div class="column">
@@ -111,6 +116,10 @@
       </div>
   
     </div>
+     <div>
+    <p>This is sameer before rape</p>
+    <img src="D:\AWS\html\1\image\sam.jpg" class="samsize" alt="Image 1">
+  </div>
  
     <!--<code>&lt;style&gt;</code>-->
   <!--
