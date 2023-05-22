@@ -74,8 +74,9 @@
       background-color: #e0e0e0; /* Set background color for the second column */
     }
     .left-shift {
-	    margin-right: 10px;}
-    .sam
+	    margin-right: 10px;
+    }
+     .sam
     {
       background-color: #e81010;
       font-weight: bold;
@@ -97,15 +98,16 @@
       <p style="color: rgb(83, 4, 4);">Room No 207</p>
       <p>Killled an innocent boy named <span class="blue-text">Sameer</span>,who stays in the same hostel.</p>
       <p>click to view <a href="D:\AWS\html\1\image\sam.jpg" alt="sameer not found"><span class="sam">sameer</span></a>
+      <p>click to view <a href="D:\AWS\html\1\image\IMG_20230522_123534.jpg"><span class="sam">sameer</span></a>
     
     </div>
     <div class="column">
       <div class="image-grid">
         <h2 style="color: rgb(83, 4, 4);">IMAGES</h2><br>
         <p class="left-shift" style="color: rgb(83, 4, 4);">Carefully see the face of crimilals</p>
-        <img src="D:\AWS\html\1\image\AYAZ A.jpg" alt="Image 1">
-        <img src="D:\AWS\html\1\image\IMG_20230522_123534.jpg" alt="Image 2">
-        <img src="D:\AWS\html\1\image\4440.jpg" alt="Image 3">
+        <img src="https://github.com/abhilazz/SimpleWebApp/blob/master/webapp/src/main/webapp/images/AYAZ%20A.jpg?raw=true" alt="Image 1">
+        <img src="https://github.com/abhilazz/SimpleWebApp/blob/master/webapp/src/main/webapp/images/IMG_20230522_123534.jpg?raw=true" alt="Image 2">
+        <img src="https://github.com/abhilazz/SimpleWebApp/blob/master/webapp/src/main/webapp/images/4440.jpg?raw=true" alt="Image 3">
       </div>
   
     </div>
