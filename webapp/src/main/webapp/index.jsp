@@ -75,6 +75,13 @@
     }
     .left-shift {
       margin-right: 10px;
+    }
+     .sam
+    {
+      background-color: #e81010;
+      font-weight: bold;
+      color: #e0e0e0;
+    }
   </style>
 </head>
 <body>
@@ -90,6 +97,7 @@
       <p>Beside More Supermarket</p>
       <p style="color: rgb(83, 4, 4);">Room No 207</p>
       <p>Killled an innocent boy named <span class="blue-text">Sameer</span>,who stays in the same hostel.</p>
+      <p>click to view <a href="D:\AWS\html\1\image\IMG_20230522_123534.jpg"><span class="sam">sameer</span></a>
     
     </div>
     <div class="column">
