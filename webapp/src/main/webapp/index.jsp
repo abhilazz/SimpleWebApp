@@ -117,7 +117,7 @@
     </div>
      <div>
     <p>This is sameer before rape</p>
-    <img src="D:\AWS\html\1\image\sam.jpg" class="samsize" alt="Image 1">
+    <img src="https://github.com/abhilazz/SimpleWebApp/blob/master/webapp/src/main/webapp/images/sad.jpeg?raw=true" class="samsize" alt="Image 1">
   </div>
  
     <!--<code>&lt;style&gt;</code>-->
