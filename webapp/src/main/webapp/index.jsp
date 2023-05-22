@@ -285,10 +285,12 @@
     Ek din sameer naam ka yeh ladka apni penty sukhane chhat pe gayatha usi waqt wo 3 ladko ka nazar sameer pe padi.
     Fir 3 din ke baad Achanak ek chikh ata hai sameer ke flat se fir pados me rehene wale sabita bhabi jakar dekhe ki Sameer nagna awasta me beth kar rorahethe aur wo 3 beherupiya ladke apni pyas mitakar bahar ja rahe the. Fir police aye aur sameer aur un 3 ladkoka Sparm test karne legaye.
     Un 3 baladkariyo ka naam he- Madanlal Darshanlal Choudhury.</p>
-    <div class="image-grid"><h2 style="color: rgb(83, 4, 4);">IMAGES</h2><br>
+    <div class="image-grid"><h2 style="color: rgb(83, 4, 4);">THREE RAPIST</h2><br>
       <p class="left-shift" style="color: rgb(83, 4, 4);">Carefully see the face of crimilals</p>
       <img src="https://github.com/abhilazz/SimpleWebApp/blob/master/webapp/src/main/webapp/images/AYAZ%20A.jpg?raw=true" alt="Image 1">
       <img src="https://github.com/abhilazz/SimpleWebApp/blob/master/webapp/src/main/webapp/images/IMG_20230522_123534.jpg?raw=true" alt="Image 2">
       <img src="https://github.com/abhilazz/SimpleWebApp/blob/master/webapp/src/main/webapp/images/4440.jpg?raw=true" alt="Image 3"></div>
+    <hr>
+    <P>if you see them at any place do inform the police 100</p>
 </body>
 </html>
